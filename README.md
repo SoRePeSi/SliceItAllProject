@@ -1,10 +1,9 @@
 # SliceItAllProject
 
 Projeto baseado no jogo Slice It All, desenvolvido ao longo de três dias.
-
-
-Project based on the game Slice It All, developed throughout three days.
 \
+Project based on the game Slice It All, developed throughout three days.
+
 ## 1o dia / 1st day: 
 
 Destinado a análise do jogo original, seleção de assets e planejamento.</br>
@@ -12,7 +11,7 @@ Foram criados o movimento de salto do jogador e a lógica geral dos obstáculos.
 \
 Destined to analysis of the original game, assets selection and planning.</br>
 Player jump movement and general obstacle logic were created. All necessary assets were added.</br>
-\
+
 ## 2o dia / 2nd day:
 
 Destinado ao desenvolvimento dos estados do jogo (pré-início, iniciado, aguardando restart e aguardando confirmação para avançar o nível).</br>
@@ -24,7 +23,7 @@ Destined to the development of the game states (pre-beginning, beginned, awaitin
 Obstacles were more worked on and all assets originally selected were included.</br>
 The spinning movement of the knife was extremely difficult to achieve properly and, after consuming an entire afternoon of work, wasn't concluded.</br>
 A second level was also created, tigether with the level change system.</br>
-\
+
 ## 3o dia / 3rd day:
 
 Destinado à resolução de bugs e à melhoria da interface.</br>

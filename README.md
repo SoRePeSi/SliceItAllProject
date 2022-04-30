@@ -33,6 +33,7 @@ Problemas gerais com a lógica foram resolvidos e comentários foram adicionados
 \
 Destined to solving bugs and improving the interface.</br>
 The score system with coins, a saving system and a quit button were implemented, beside knife acquirement and change.</br>
+General problems with the logic were solved and comments were added.</br>
 \
 Além do movimento de rotação da faca, não foram encontrados maiores problemas.
 \
